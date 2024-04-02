@@ -5,292 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="123adbde-d779-4471-9bcf-89937c78b38c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/Assignment.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/Concentration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/Conditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/Diagonal_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/Greatest_candies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/HNEE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/Infinite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/Intersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/JumpGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/KthElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/Median2SortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/MoreThan25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/PerfectSq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/PlaceFlowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/PsitionOneandZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/ReshapeMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/SelfProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/Shuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/Spiral_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/Spiral_M2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/Sum_Medium.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/ValidSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/buyANDsell_stocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/mATRIX_DIAGONAL_sUM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/permutaion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/rotated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/sortWithoutAlgo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Backtracking_09/Maze_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/BitWise_11/clearLast2Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/Array_Count_Nos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/Count_Even_Days.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/Distance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/HCF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/Perfect_No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/ReverseNo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/Reverse_String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/Sign_prod1822.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/copy_wala.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/nCr_nPr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/rrrrrr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/trailingFacttorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/xNyCoordinate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/First_JAVA_02/EIGHTH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/First_JAVA_02/FIFTH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/First_JAVA_02/FIRST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/First_JAVA_02/FOURTH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/First_JAVA_02/NINETH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/First_JAVA_02/SECOND.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/First_JAVA_02/SEVENTH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/First_JAVA_02/SIXTH.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/First_JAVA_02/SaatvikMaam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/First_JAVA_02/THIRD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Functions_04/AddIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Functions_04/AgeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Functions_04/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Functions_04/Max_Min_No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Functions_04/Prime_Function.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Functions_04/Pythagorian_Triplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Functions_04/bitpuzzle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/LinkedList_15/Add2No.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/LinkedList_15/JosephProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/LinkedList_15/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/LinkedList_15/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/LinkedList_15/RemoveFromLast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/AddDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/BinaryString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/Binaryyyyyy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/BuyNdSellStocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/CountZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/Elimination390LC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/IntToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/LB1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/LB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/LB3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/LB4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/LB5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/LB6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/LengthString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/MaxEle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/N_to_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/OccurenceKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/PERMUTATION.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/PalindromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/PalindromeRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/RecPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/SubstringMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/addString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/countZero_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/duplicateRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/friendPairing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/ggggg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/lastOccurence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/linearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/num_1toN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/occurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/perfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/powerOF2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/power_xtoN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/printSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/recurrr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/removeAPPLE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/removeChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/removeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/searchWithArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/sherlockGCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/steps_counting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/subSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Recursion_08/sum_digit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/StacksNdQueues_16/AlternateDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/StacksNdQueues_16/Asteroid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/StacksNdQueues_16/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/StacksNdQueues_16/StacksMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/StacksNdQueues_16/ValidParanthesisString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/StacksNdQueues_16/trial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/StringPattern_07/AllinOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/StringPattern_07/SANNIDHYA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/Arrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/Delloite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/LargestOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/Occuerence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/ReverseVovel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/Shorten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/String_Swap_1790.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/hhhhh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/kth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/longPRESSEDword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/merging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/wildcard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/TicTacRow/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment/src/introoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA JOURNEY.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NPTEL/NPTEL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NPTEL/src/Answer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NPTEL/src/firstApplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NPTEL/src/firstAppletHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/Problem Solving.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/src/antiClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/src/rotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/src/setUnion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problem Solving/src/snakeMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebDev/WebDev.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebDev/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebDev/src/first.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/Concentration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/Conditions.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/Diagonal_Sum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/Greatest_candies.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/HNEE.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/Infinite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/Intersection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/JumpGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/KthElement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/Median2SortedArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/MoreThan25.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/PerfectSq.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/PlaceFlowers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/PsitionOneandZero.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/ReshapeMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/SelfProduct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/Shuffle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/Spiral_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/Spiral_M2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/ValidSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/buyANDsell_stocks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/mATRIX_DIAGONAL_sUM.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/permutaion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/rotated.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Arrays_05/sortWithoutAlgo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/BitWise_11/clearLast2Bits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Conditionals_Loops_03/Array_Count_Nos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Conditionals_Loops_03/Count_Even_Days.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Conditionals_Loops_03/Distance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Conditionals_Loops_03/HCF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Conditionals_Loops_03/Perfect_No.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Conditionals_Loops_03/Reverse_String.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Conditionals_Loops_03/Sign_prod1822.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Conditionals_Loops_03/copy_wala.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Conditionals_Loops_03/nCr_nPr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Conditionals_Loops_03/rrrrrr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Conditionals_Loops_03/xNyCoordinate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/FIRST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/First_JAVA_02/EIGHTH.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/First_JAVA_02/FIFTH.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/First_JAVA_02/FOURTH.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/First_JAVA_02/NINETH.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/First_JAVA_02/SECOND.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/First_JAVA_02/SEVENTH.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/First_JAVA_02/SIXTH.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/First_JAVA_02/SaatvikMaam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/First_JAVA_02/THIRD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Functions_04/AddIntegers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Functions_04/AgeCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Functions_04/BaseC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Functions_04/BaseI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Functions_04/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Functions_04/Max_Min_No.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Functions_04/Prime_Function.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Functions_04/Pythagorian_Triplet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Functions_04/bitpuzzle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/LinkedList_15/Add2No.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/LinkedList_15/JosephProblem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/LinkedList_15/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/AddDigits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/Binaryyyyyy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/BuyNdSellStocks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/CountZeroes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/Elimination390LC.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/IntToString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/LB1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/LB2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/LB3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/LB4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/LB5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/LB6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/LengthString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/MaxEle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/MergeSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/N_to_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/OccurenceKey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/PERMUTATION.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/PalindromString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/PalindromeRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/RecPattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/addString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/countZero_2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/duplicateRecursion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/factorial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/friendPairing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/ggggg.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/lastOccurence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/linearSearch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/num_1toN.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/occurance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/pattern.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/perfectSquare.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/powerOF2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/power_xtoN.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/printSubArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/recurrr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/removeAPPLE.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/removeChar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/removeString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/reverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/searchWithArrayList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/sherlockGCD.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/steps_counting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/subSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Recursion_08/sum_digit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/StacksNdQueues_16/AlternateDuplicates.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/StacksNdQueues_16/Asteroid.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/StacksNdQueues_16/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/StacksNdQueues_16/StacksMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/StacksNdQueues_16/trial.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/StringPattern_07/AllinOne.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Strings_06/Arrange.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Strings_06/Delloite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Strings_06/LargestOdd.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Strings_06/Occerence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Strings_06/ReverseVovel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Strings_06/Shorten.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Strings_06/String_Swap_1790.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Strings_06/binary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Strings_06/hhhhh.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Strings_06/kth.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Strings_06/longPRESSEDword.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/Strings_06/merging.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Assignment/introoo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/NPTEL/Answer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Problem Solving/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Problem Solving/antiClock.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Problem Solving/rotateArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Problem Solving/setUnion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Problem Solving/snakeMatrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/src/First_JAVA_02/GitTutorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -333,7 +49,7 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.String_Palindrome">
+  <component name="RunManager">
     <configuration name="BuyNdSellStocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Recursion_08.BuyNdSellStocks" />
       <module name="Assignment" />
@@ -433,6 +149,31 @@
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+        <entry key="f7cca67d-d92a-4d55-a366-8ef28aeae184">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
