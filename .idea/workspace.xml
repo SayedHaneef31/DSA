@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="123adbde-d779-4471-9bcf-89937c78b38c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment/src/First_JAVA_02/GitTutorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/src/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/src/Arrays_05/MatrixAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/src/CollectionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/src/ErrorHandlingPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/src/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/src/Strings_06/MinimumAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/src/ThreadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/src/Tree_17/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/src/Tree_17/RightSuccesor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/src/Tree_17/SymmetricTree101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDevelopment/JavaDevelopment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDevelopment/src/BankMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDevelopment/src/FirstFit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaDevelopment/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/src/TicTacRow/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/src/TicTacRow/Game.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +32,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -49,13 +65,13 @@
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="BuyNdSellStocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_08.BuyNdSellStocks" />
+  <component name="RunManager" selected="Application.BankMain">
+    <configuration name="BFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree_17.BFS" />
       <module name="Assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion_08.*" />
+          <option name="PATTERN" value="Tree_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,19 +79,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LB2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_08.LB2" />
-      <module name="Assignment" />
+    <configuration name="BankMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BankMain" />
+      <module name="JavaDevelopment" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_08.PalindromString" />
+    <configuration name="FirstFit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstFit" />
+      <module name="JavaDevelopment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RightSuccesor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree_17.RightSuccesor" />
       <module name="Assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion_08.*" />
+          <option name="PATTERN" value="Tree_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,25 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="addString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_08.addString" />
+    <configuration name="SymmetricTree101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree_17.SymmetricTree101" />
       <module name="Assignment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion_08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="printSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion_08.printSubArray" />
-      <module name="Assignment" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Recursion_08.*" />
+          <option name="PATTERN" value="Tree_17.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BuyNdSellStocks" />
-        <item itemvalue="Application.printSubArray" />
-        <item itemvalue="Application.PalindromString" />
-        <item itemvalue="Application.addString" />
-        <item itemvalue="Application.LB2" />
+        <item itemvalue="Application.BankMain" />
+        <item itemvalue="Application.FirstFit" />
+        <item itemvalue="Application.SymmetricTree101" />
+        <item itemvalue="Application.RightSuccesor" />
+        <item itemvalue="Application.BFS" />
       </list>
     </recent_temporary>
   </component>
@@ -416,6 +426,21 @@
           <url>file://$PROJECT_DIR$/Assignment/src/Recursion_08/perfectSquare.java</url>
           <line>6</line>
           <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Assignment/src/Strings_06/MinimumAnagram.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Assignment/src/Tree_17/SymmetricTree101.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaDevelopment/src/BankMain.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Assignment/src/Conditionals_Loops_03/Sign_prod1822.java</url>
